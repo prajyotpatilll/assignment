@@ -41,7 +41,7 @@ This is a full-stack dummy application for SheCan Foundation interns to track do
 
 ```bash
 git clone https://github.com/prajyotpatilll/assignment.git
-```
+````
 
 ### 2. Backend Setup
 
