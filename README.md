@@ -40,8 +40,7 @@ This is a full-stack dummy application for SheCan Foundation interns to track do
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/prajyotpatilll/assignment.git
 ````
 
 ### 2. Backend Setup
